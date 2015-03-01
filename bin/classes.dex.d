@@ -1,0 +1,20 @@
+C:\Users\Faruk\Desktop\imeiTools\bin\classes.dex : \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\BuildConfig.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$1$1.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$1$2.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$1.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$2$1.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$2$2.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$2.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$3.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$4.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity$5.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\MainActivity.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\R$attr.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\R$drawable.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\R$id.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\R$layout.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\R$string.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\R$style.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\R.class \
+C:\Users\Faruk\Desktop\imeiTools\bin\classes\com\cebecifaruk\repairimei\ShellExecuter.class \
